@@ -1,0 +1,8 @@
+/* Base styles for the application.  You can customize or remove these styles as needed. */
+/* Tailwind will be loaded via script in public/index.html. This file exists to satisfy the import in index.tsx. */
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
